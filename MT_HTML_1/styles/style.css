@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+
+}
+body{
+background:url('https://dam.tbg.com.mx/content/dam/editorialTelevisa/mexico/natgeo/mx/traveler/fotogalerias/13/11/fetzeweerstrapaisajeandino_46f300ce_b693_f3c4_fac2_c7e93648543b.jpg.imgo.jpg');
+height: 100vh;
+width: 100vw;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+color:rgb(177, 0, 0);
+font-family: 'Times New Roman', Times, serif;
+
+}
+nav{
+    background-color:black;
+    width: 100%;
+
+}
+.menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.lista a{
+    text-decoration: none;
+    color: brown;
+    display: block;
+    padding: 15px 50px;
+}
